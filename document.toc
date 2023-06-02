@@ -1,6 +1,0 @@
-\babel@toc {russian}{}\relax 
-\contentsline {section}{\numberline {1}Вступление}{2}{section.1}%
-\contentsline {section}{\numberline {2}Предвижение}{3}{section.2}%
-\contentsline {section}{\numberline {3}Навигация}{4}{section.3}%
-\contentsline {section}{\numberline {4}Таблицы случайных встреч}{5}{section.4}%
-\contentsline {section}{\numberline {5}Памятка}{7}{section.5}%
